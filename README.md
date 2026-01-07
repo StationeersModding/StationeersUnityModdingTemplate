@@ -1,7 +1,6 @@
 # stationeers.modding.template
 
-Template project for a Stationeers mod.
-
+Template project for a Unity Stationeers mod.
 
 ## Instructions
 
@@ -19,22 +18,17 @@ This process will create:
   prefabs in the game
   - A default Assembly definition to correctly make use of the stationeers dlls.
 
-You can close the dialog and do not perform the setup initially, you can relaunch
-the setup dialog through: **Tools > Project Setup Wizard**
-
-
-Testing is suggested for now.
-
 ## Notes
 
 The project includes the following packages:
-  - stationeers.modding.assemblies
   - stationeers.modding.exporter
-
-The project still does not include the modding tools package.
+  - StationeersModdingTools (Optional)
 
 The project uses the following Player Settings:
  - Company Name
  - Product Name
  - Bundle version
 
+ ### Credits
+ Originally created by @ilodev
+ Now mainatained by @Michael-Codelabs
